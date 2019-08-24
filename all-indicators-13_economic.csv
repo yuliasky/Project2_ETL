@@ -1,0 +1,1684 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+num
+Peru,PER,2017,"Population, total",SP.POP.TOTL,32165485
+Peru,PER,2016,"Population, total",SP.POP.TOTL,31773839
+Peru,PER,2015,"Population, total",SP.POP.TOTL,31376671
+Peru,PER,2014,"Population, total",SP.POP.TOTL,30973354
+Peru,PER,2013,"Population, total",SP.POP.TOTL,30565716
+Peru,PER,2012,"Population, total",SP.POP.TOTL,30158966
+Peru,PER,2011,"Population, total",SP.POP.TOTL,29759989
+Peru,PER,2010,"Population, total",SP.POP.TOTL,29373646
+Peru,PER,2009,"Population, total",SP.POP.TOTL,29001507
+Peru,PER,2008,"Population, total",SP.POP.TOTL,28641980
+Peru,PER,2007,"Population, total",SP.POP.TOTL,28292724
+Peru,PER,2006,"Population, total",SP.POP.TOTL,27949944
+Peru,PER,2005,"Population, total",SP.POP.TOTL,27610410
+Peru,PER,2004,"Population, total",SP.POP.TOTL,27273194
+Peru,PER,2003,"Population, total",SP.POP.TOTL,26937738
+Peru,PER,2002,"Population, total",SP.POP.TOTL,26601467
+Peru,PER,2001,"Population, total",SP.POP.TOTL,26261363
+Peru,PER,2000,"Population, total",SP.POP.TOTL,25914879
+Peru,PER,1999,"Population, total",SP.POP.TOTL,25561299
+Peru,PER,1998,"Population, total",SP.POP.TOTL,25199748
+Peru,PER,1997,"Population, total",SP.POP.TOTL,24827406
+Peru,PER,1996,"Population, total",SP.POP.TOTL,24441074
+Peru,PER,1995,"Population, total",SP.POP.TOTL,24038760
+Peru,PER,1994,"Population, total",SP.POP.TOTL,23619356
+Peru,PER,1993,"Population, total",SP.POP.TOTL,23184228
+Peru,PER,1992,"Population, total",SP.POP.TOTL,22737056
+Peru,PER,1991,"Population, total",SP.POP.TOTL,22283128
+Peru,PER,1990,"Population, total",SP.POP.TOTL,21826658
+Peru,PER,1989,"Population, total",SP.POP.TOTL,21368859
+Peru,PER,1988,"Population, total",SP.POP.TOTL,20909895
+Peru,PER,1987,"Population, total",SP.POP.TOTL,20451710
+Peru,PER,1986,"Population, total",SP.POP.TOTL,19996253
+Peru,PER,1985,"Population, total",SP.POP.TOTL,19544956
+Peru,PER,1984,"Population, total",SP.POP.TOTL,19099584
+Peru,PER,1983,"Population, total",SP.POP.TOTL,18660439
+Peru,PER,1982,"Population, total",SP.POP.TOTL,18225730
+Peru,PER,1981,"Population, total",SP.POP.TOTL,17792549
+Peru,PER,1980,"Population, total",SP.POP.TOTL,17359120
+Peru,PER,1979,"Population, total",SP.POP.TOTL,16924753
+Peru,PER,1978,"Population, total",SP.POP.TOTL,16491083
+Peru,PER,1977,"Population, total",SP.POP.TOTL,16061323
+Peru,PER,1976,"Population, total",SP.POP.TOTL,15639901
+Peru,PER,1975,"Population, total",SP.POP.TOTL,15229947
+Peru,PER,1974,"Population, total",SP.POP.TOTL,14832841
+Peru,PER,1973,"Population, total",SP.POP.TOTL,14447648
+Peru,PER,1972,"Population, total",SP.POP.TOTL,14072476
+Peru,PER,1971,"Population, total",SP.POP.TOTL,13704335
+Peru,PER,1970,"Population, total",SP.POP.TOTL,13341069
+Peru,PER,1969,"Population, total",SP.POP.TOTL,12982449
+Peru,PER,1968,"Population, total",SP.POP.TOTL,12629329
+Peru,PER,1967,"Population, total",SP.POP.TOTL,12282082
+Peru,PER,1966,"Population, total",SP.POP.TOTL,11941325
+Peru,PER,1965,"Population, total",SP.POP.TOTL,11607681
+Peru,PER,1964,"Population, total",SP.POP.TOTL,11281015
+Peru,PER,1963,"Population, total",SP.POP.TOTL,10961540
+Peru,PER,1962,"Population, total",SP.POP.TOTL,10650667
+Peru,PER,1961,"Population, total",SP.POP.TOTL,10350242
+Peru,PER,1960,"Population, total",SP.POP.TOTL,10061515
+Peru,PER,2017,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.92414443
+Peru,PER,2016,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.68024573
+Peru,PER,2015,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.45530686
+Peru,PER,2014,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.24816272
+Peru,PER,2013,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.06427293
+Peru,PER,2012,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.900686834
+Peru,PER,2011,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.753419701
+Peru,PER,2010,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.618561874
+Peru,PER,2009,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.481462288
+Peru,PER,2008,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.362119882
+Peru,PER,2007,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.254705237
+Peru,PER,2006,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.151192866
+Peru,PER,2005,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.044859707
+Peru,PER,2004,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,8.858134138
+Peru,PER,2003,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,8.664347285
+Peru,PER,2002,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,8.462498943
+Peru,PER,2001,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,8.253581348
+Peru,PER,2000,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,8.038253744
+Peru,PER,1999,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.900341195
+Peru,PER,1998,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.758967189
+Peru,PER,1997,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.615605927
+Peru,PER,1996,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.473536716
+Peru,PER,1995,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.334159659
+Peru,PER,1994,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.243262573
+Peru,PER,1993,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.161585464
+Peru,PER,1992,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.085836045
+Peru,PER,1991,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,7.010367706
+Peru,PER,1990,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.930159565
+Peru,PER,1989,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.895463369
+Peru,PER,1988,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.861356985
+Peru,PER,1987,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.826119454
+Peru,PER,1986,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.788499472
+Peru,PER,1985,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.746316245
+Peru,PER,1984,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.754338555
+Peru,PER,1983,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.764310906
+Peru,PER,1982,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.77184918
+Peru,PER,1981,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.769630353
+Peru,PER,1980,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.75049825
+Peru,PER,1979,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.776242731
+Peru,PER,1978,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.789559186
+Peru,PER,1977,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.788775027
+Peru,PER,1976,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.773783826
+Peru,PER,1975,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.742947975
+Peru,PER,1974,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.747159473
+Peru,PER,1973,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.739010275
+Peru,PER,1972,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.719114687
+Peru,PER,1971,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.690183916
+Peru,PER,1970,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.653130918
+Peru,PER,1969,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.680942178
+Peru,PER,1968,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.710444872
+Peru,PER,1967,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.734224241
+Peru,PER,1966,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.738155605
+Peru,PER,1965,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.709569441
+Peru,PER,1964,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.718793197
+Peru,PER,1963,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.699268805
+Peru,PER,1962,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.651820274
+Peru,PER,1961,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.582857202
+Peru,PER,1960,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,6.495663271
+Peru,PER,2017,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,41.83287518
+Peru,PER,2016,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,42.31075946
+Peru,PER,2015,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,42.73276878
+Peru,PER,2014,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,43.25083907
+Peru,PER,2013,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,43.75011889
+Peru,PER,2012,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,44.26526695
+Peru,PER,2011,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,44.85860787
+Peru,PER,2010,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,45.56444338
+Peru,PER,2009,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,46.42770975
+Peru,PER,2008,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,47.40910224
+Peru,PER,2007,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,48.46904232
+Peru,PER,2006,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,49.54297691
+Peru,PER,2005,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,50.58927885
+Peru,PER,2004,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,51.79355112
+Peru,PER,2003,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,53.00259445
+Peru,PER,2002,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,54.19006273
+Peru,PER,2001,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,55.36044243
+Peru,PER,2000,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,56.54121501
+Peru,PER,1999,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,57.54071934
+Peru,PER,1998,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,58.47708443
+Peru,PER,1997,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,59.37806083
+Peru,PER,1996,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,60.2964621
+Peru,PER,1995,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,61.26061109
+Peru,PER,1994,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,62.42830337
+Peru,PER,1993,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,63.67826127
+Peru,PER,1992,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,64.94743529
+Peru,PER,1991,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,66.0821936
+Peru,PER,1990,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,66.97284284
+Peru,PER,1989,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,68.1499878
+Peru,PER,1988,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,69.1332236
+Peru,PER,1987,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,69.99977953
+Peru,PER,1986,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,70.95066316
+Peru,PER,1985,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,72.12164696
+Peru,PER,1984,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,73.36749247
+Peru,PER,1983,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,74.76038283
+Peru,PER,1982,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,76.19141457
+Peru,PER,1981,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,77.41748481
+Peru,PER,1980,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,78.24893212
+Peru,PER,1979,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,79.42084545
+Peru,PER,1978,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,80.35890653
+Peru,PER,1977,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,81.09411596
+Peru,PER,1976,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,81.71510062
+Peru,PER,1975,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,82.2718064
+Peru,PER,1974,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,83.11422602
+Peru,PER,1973,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,83.85088563
+Peru,PER,1972,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,84.45201749
+Peru,PER,1971,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,84.88958501
+Peru,PER,1970,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,85.12825754
+Peru,PER,1969,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,85.65103723
+Peru,PER,1968,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,86.06827294
+Peru,PER,1967,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,86.31115873
+Peru,PER,1966,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,86.2258236
+Peru,PER,1965,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,85.67803328
+Peru,PER,1964,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,85.56011363
+Peru,PER,1963,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,85.11182801
+Peru,PER,1962,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,84.38070595
+Peru,PER,1961,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,83.48862821
+Peru,PER,1960,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,82.50273593
+Peru,PER,2017,Number of infant deaths,SH.DTH.IMRT,7073
+Peru,PER,2016,Number of infant deaths,SH.DTH.IMRT,7385
+Peru,PER,2015,Number of infant deaths,SH.DTH.IMRT,7724
+Peru,PER,2014,Number of infant deaths,SH.DTH.IMRT,8091
+Peru,PER,2013,Number of infant deaths,SH.DTH.IMRT,8471
+Peru,PER,2012,Number of infant deaths,SH.DTH.IMRT,8853
+Peru,PER,2011,Number of infant deaths,SH.DTH.IMRT,9248
+Peru,PER,2010,Number of infant deaths,SH.DTH.IMRT,9665
+Peru,PER,2009,Number of infant deaths,SH.DTH.IMRT,10124
+Peru,PER,2008,Number of infant deaths,SH.DTH.IMRT,10638
+Peru,PER,2007,Number of infant deaths,SH.DTH.IMRT,11226
+Peru,PER,2006,Number of infant deaths,SH.DTH.IMRT,11902
+Peru,PER,2005,Number of infant deaths,SH.DTH.IMRT,12678
+Peru,PER,2004,Number of infant deaths,SH.DTH.IMRT,13570
+Peru,PER,2003,Number of infant deaths,SH.DTH.IMRT,14578
+Peru,PER,2002,Number of infant deaths,SH.DTH.IMRT,15724
+Peru,PER,2001,Number of infant deaths,SH.DTH.IMRT,17015
+Peru,PER,2000,Number of infant deaths,SH.DTH.IMRT,18477
+Peru,PER,1999,Number of infant deaths,SH.DTH.IMRT,20104
+Peru,PER,1998,Number of infant deaths,SH.DTH.IMRT,21901
+Peru,PER,1997,Number of infant deaths,SH.DTH.IMRT,23810
+Peru,PER,1996,Number of infant deaths,SH.DTH.IMRT,25799
+Peru,PER,1995,Number of infant deaths,SH.DTH.IMRT,27845
+Peru,PER,1994,Number of infant deaths,SH.DTH.IMRT,29883
+Peru,PER,1993,Number of infant deaths,SH.DTH.IMRT,31875
+Peru,PER,1992,Number of infant deaths,SH.DTH.IMRT,33774
+Peru,PER,1991,Number of infant deaths,SH.DTH.IMRT,35547
+Peru,PER,1990,Number of infant deaths,SH.DTH.IMRT,37200
+Peru,PER,1989,Number of infant deaths,SH.DTH.IMRT,38723
+Peru,PER,1988,Number of infant deaths,SH.DTH.IMRT,40215
+Peru,PER,1987,Number of infant deaths,SH.DTH.IMRT,41765
+Peru,PER,1986,Number of infant deaths,SH.DTH.IMRT,43389
+Peru,PER,1985,Number of infant deaths,SH.DTH.IMRT,45006
+Peru,PER,1984,Number of infant deaths,SH.DTH.IMRT,46548
+Peru,PER,1983,Number of infant deaths,SH.DTH.IMRT,47973
+Peru,PER,1982,Number of infant deaths,SH.DTH.IMRT,49241
+Peru,PER,1981,Number of infant deaths,SH.DTH.IMRT,50298
+Peru,PER,1980,Number of infant deaths,SH.DTH.IMRT,51176
+Peru,PER,1979,Number of infant deaths,SH.DTH.IMRT,51893
+Peru,PER,1978,Number of infant deaths,SH.DTH.IMRT,52451
+Peru,PER,1977,Number of infant deaths,SH.DTH.IMRT,52899
+Peru,PER,1976,Number of infant deaths,SH.DTH.IMRT,53322
+Peru,PER,1975,Number of infant deaths,SH.DTH.IMRT,53790
+Peru,PER,1974,Number of infant deaths,SH.DTH.IMRT,54354
+Peru,PER,1973,Number of infant deaths,SH.DTH.IMRT,55013
+Peru,PER,1972,Number of infant deaths,SH.DTH.IMRT,55747
+Peru,PER,1971,Number of infant deaths,SH.DTH.IMRT,56550
+Peru,PER,1970,Number of infant deaths,SH.DTH.IMRT,57336
+Peru,PER,1969,Number of infant deaths,SH.DTH.IMRT,58130
+Peru,PER,1968,Number of infant deaths,SH.DTH.IMRT,58892
+Peru,PER,1967,Number of infant deaths,SH.DTH.IMRT,59647
+Peru,PER,1966,Number of infant deaths,SH.DTH.IMRT,60405
+Peru,PER,1965,Number of infant deaths,SH.DTH.IMRT,61105
+Peru,PER,1964,Number of infant deaths,SH.DTH.IMRT,61712
+Peru,PER,1963,Number of infant deaths,SH.DTH.IMRT,62155
+Peru,PER,1962,Number of infant deaths,SH.DTH.IMRT,62417
+Peru,PER,1961,Number of infant deaths,SH.DTH.IMRT,62478
+Peru,PER,1960,Number of infant deaths,SH.DTH.IMRT,62398
+Peru,PER,2017,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2016,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2015,International migrant stock (% of population),SM.POP.TOTL.ZS,0.289645141
+Peru,PER,2014,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2013,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2012,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2011,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2010,International migrant stock (% of population),SM.POP.TOTL.ZS,0.286195339
+Peru,PER,2009,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2008,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2007,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2006,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2005,International migrant stock (% of population),SM.POP.TOTL.ZS,0.280839767
+Peru,PER,2004,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2003,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2002,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2001,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2000,International migrant stock (% of population),SM.POP.TOTL.ZS,0.255810611
+Peru,PER,1999,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1998,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1997,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1996,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1995,International migrant stock (% of population),SM.POP.TOTL.ZS,0.23600218
+Peru,PER,1994,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1993,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1992,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1991,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1990,International migrant stock (% of population),SM.POP.TOTL.ZS,0.297915512
+Peru,PER,1989,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1988,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1987,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1986,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1985,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1984,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1983,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1982,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1981,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1980,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1979,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1978,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1977,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1976,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1975,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1974,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1973,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1972,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1971,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1970,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1969,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1968,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1967,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1966,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1965,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1964,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1963,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1962,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1961,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,1960,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Peru,PER,2017,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2016,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2015,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2014,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2013,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2012,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2011,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2010,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2009,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2008,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2007,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2006,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2005,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2004,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2003,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2002,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2001,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,2000,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1999,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1998,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1997,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1996,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1995,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1994,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1993,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1992,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1991,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1990,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1989,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1988,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1987,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1986,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1985,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1984,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1983,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1982,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1981,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1980,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1979,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1978,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1977,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1976,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1975,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1974,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1973,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1972,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1971,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1970,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1969,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1968,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1967,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1966,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1965,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1964,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1963,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1962,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1961,Land area (sq. km),AG.LND.TOTL.K2,1280000
+Peru,PER,1960,Land area (sq. km),AG.LND.TOTL.K2,
+Peru,PER,2017,Population growth (annual %),SP.POP.GROW,1.2250705
+Peru,PER,2016,Population growth (annual %),SP.POP.GROW,1.257862325
+Peru,PER,2015,Population growth (annual %),SP.POP.GROW,1.293736852
+Peru,PER,2014,Population growth (annual %),SP.POP.GROW,1.324829778
+Peru,PER,2013,Population growth (annual %),SP.POP.GROW,1.339672996
+Peru,PER,2012,Population growth (annual %),SP.POP.GROW,1.331741839
+Peru,PER,2011,Population growth (annual %),SP.POP.GROW,1.306696256
+Peru,PER,2010,Population growth (annual %),SP.POP.GROW,1.275008363
+Peru,PER,2009,Population growth (annual %),SP.POP.GROW,1.247432037
+Peru,PER,2008,Population growth (annual %),SP.POP.GROW,1.226880466
+Peru,PER,2007,Population growth (annual %),SP.POP.GROW,1.21894731
+Peru,PER,2006,Population growth (annual %),SP.POP.GROW,1.22223205
+Peru,PER,2005,Population growth (annual %),SP.POP.GROW,1.228856048
+Peru,PER,2004,Population growth (annual %),SP.POP.GROW,1.237611195
+Peru,PER,2003,Population growth (annual %),SP.POP.GROW,1.256183845
+Peru,PER,2002,Population growth (annual %),SP.POP.GROW,1.286759308
+Peru,PER,2001,Population growth (annual %),SP.POP.GROW,1.328148904
+Peru,PER,2000,Population growth (annual %),SP.POP.GROW,1.373783271
+Peru,PER,1999,Population growth (annual %),SP.POP.GROW,1.424545535
+Peru,PER,1998,Population growth (annual %),SP.POP.GROW,1.48858708
+Peru,PER,1997,Population growth (annual %),SP.POP.GROW,1.568304597
+Peru,PER,1996,Population growth (annual %),SP.POP.GROW,1.659755005
+Peru,PER,1995,Population growth (annual %),SP.POP.GROW,1.760098227
+Peru,PER,1994,Population growth (annual %),SP.POP.GROW,1.859432547
+Peru,PER,1993,Population growth (annual %),SP.POP.GROW,1.947620346
+Peru,PER,1992,Population growth (annual %),SP.POP.GROW,2.016621626
+Peru,PER,1991,Population growth (annual %),SP.POP.GROW,2.069773341
+Peru,PER,1990,Population growth (annual %),SP.POP.GROW,2.119739147
+Peru,PER,1989,Population growth (annual %),SP.POP.GROW,2.171218339
+Peru,PER,1988,Population growth (annual %),SP.POP.GROW,2.215599433
+Peru,PER,1987,Population growth (annual %),SP.POP.GROW,2.252159157
+Peru,PER,1986,Population growth (annual %),SP.POP.GROW,2.282765797
+Peru,PER,1985,Population growth (annual %),SP.POP.GROW,2.305069332
+Peru,PER,1984,Population growth (annual %),SP.POP.GROW,2.326083331
+Peru,PER,1983,Population growth (annual %),SP.POP.GROW,2.357138944
+Peru,PER,1982,Population growth (annual %),SP.POP.GROW,2.405455781
+Peru,PER,1981,Population growth (annual %),SP.POP.GROW,2.466175745
+Peru,PER,1980,Population growth (annual %),SP.POP.GROW,2.534079181
+Peru,PER,1979,Population growth (annual %),SP.POP.GROW,2.595741431
+Peru,PER,1978,Population growth (annual %),SP.POP.GROW,2.640572688
+Peru,PER,1977,Population growth (annual %),SP.POP.GROW,2.658867853
+Peru,PER,1976,Population growth (annual %),SP.POP.GROW,2.656171825
+Peru,PER,1975,Population growth (annual %),SP.POP.GROW,2.641997799
+Peru,PER,1974,Population growth (annual %),SP.POP.GROW,2.63120758
+Peru,PER,1973,Population growth (annual %),SP.POP.GROW,2.631080024
+Peru,PER,1972,Population growth (annual %),SP.POP.GROW,2.650862676
+Peru,PER,1971,Population growth (annual %),SP.POP.GROW,2.686503393
+Peru,PER,1970,Population growth (annual %),SP.POP.GROW,2.724880385
+Peru,PER,1969,Population growth (annual %),SP.POP.GROW,2.757656089
+Peru,PER,1968,Population growth (annual %),SP.POP.GROW,2.788035515
+Peru,PER,1967,Population growth (annual %),SP.POP.GROW,2.813637899
+Peru,PER,1966,Population growth (annual %),SP.POP.GROW,2.833803918
+Peru,PER,1965,Population growth (annual %),SP.POP.GROW,2.854580987
+Peru,PER,1964,Population growth (annual %),SP.POP.GROW,2.872844169
+Peru,PER,1963,Population growth (annual %),SP.POP.GROW,2.87702633
+Peru,PER,1962,Population growth (annual %),SP.POP.GROW,2.861261822
+Peru,PER,1961,Population growth (annual %),SP.POP.GROW,2.829215133
+Peru,PER,1960,Population growth (annual %),SP.POP.GROW,2.78763467
+Peru,PER,2017,Population density (people per sq. km of land area),EN.POP.DNST,25.12928516
+Peru,PER,2016,Population density (people per sq. km of land area),EN.POP.DNST,24.82331172
+Peru,PER,2015,Population density (people per sq. km of land area),EN.POP.DNST,24.51302422
+Peru,PER,2014,Population density (people per sq. km of land area),EN.POP.DNST,24.19793281
+Peru,PER,2013,Population density (people per sq. km of land area),EN.POP.DNST,23.87946563
+Peru,PER,2012,Population density (people per sq. km of land area),EN.POP.DNST,23.56169219
+Peru,PER,2011,Population density (people per sq. km of land area),EN.POP.DNST,23.24999141
+Peru,PER,2010,Population density (people per sq. km of land area),EN.POP.DNST,22.94816094
+Peru,PER,2009,Population density (people per sq. km of land area),EN.POP.DNST,22.65742734
+Peru,PER,2008,Population density (people per sq. km of land area),EN.POP.DNST,22.37654688
+Peru,PER,2007,Population density (people per sq. km of land area),EN.POP.DNST,22.10369063
+Peru,PER,2006,Population density (people per sq. km of land area),EN.POP.DNST,21.83589375
+Peru,PER,2005,Population density (people per sq. km of land area),EN.POP.DNST,21.57063281
+Peru,PER,2004,Population density (people per sq. km of land area),EN.POP.DNST,21.30718281
+Peru,PER,2003,Population density (people per sq. km of land area),EN.POP.DNST,21.04510781
+Peru,PER,2002,Population density (people per sq. km of land area),EN.POP.DNST,20.78239609
+Peru,PER,2001,Population density (people per sq. km of land area),EN.POP.DNST,20.51668984
+Peru,PER,2000,Population density (people per sq. km of land area),EN.POP.DNST,20.24599922
+Peru,PER,1999,Population density (people per sq. km of land area),EN.POP.DNST,19.96976484
+Peru,PER,1998,Population density (people per sq. km of land area),EN.POP.DNST,19.68730313
+Peru,PER,1997,Population density (people per sq. km of land area),EN.POP.DNST,19.39641094
+Peru,PER,1996,Population density (people per sq. km of land area),EN.POP.DNST,19.09458906
+Peru,PER,1995,Population density (people per sq. km of land area),EN.POP.DNST,18.78028125
+Peru,PER,1994,Population density (people per sq. km of land area),EN.POP.DNST,18.45262188
+Peru,PER,1993,Population density (people per sq. km of land area),EN.POP.DNST,18.11267813
+Peru,PER,1992,Population density (people per sq. km of land area),EN.POP.DNST,17.763325
+Peru,PER,1991,Population density (people per sq. km of land area),EN.POP.DNST,17.40869375
+Peru,PER,1990,Population density (people per sq. km of land area),EN.POP.DNST,17.05207656
+Peru,PER,1989,Population density (people per sq. km of land area),EN.POP.DNST,16.69442109
+Peru,PER,1988,Population density (people per sq. km of land area),EN.POP.DNST,16.33585547
+Peru,PER,1987,Population density (people per sq. km of land area),EN.POP.DNST,15.97789844
+Peru,PER,1986,Population density (people per sq. km of land area),EN.POP.DNST,15.62207266
+Peru,PER,1985,Population density (people per sq. km of land area),EN.POP.DNST,15.26949688
+Peru,PER,1984,Population density (people per sq. km of land area),EN.POP.DNST,14.92155
+Peru,PER,1983,Population density (people per sq. km of land area),EN.POP.DNST,14.57846797
+Peru,PER,1982,Population density (people per sq. km of land area),EN.POP.DNST,14.23885156
+Peru,PER,1981,Population density (people per sq. km of land area),EN.POP.DNST,13.90042891
+Peru,PER,1980,Population density (people per sq. km of land area),EN.POP.DNST,13.5618125
+Peru,PER,1979,Population density (people per sq. km of land area),EN.POP.DNST,13.22246328
+Peru,PER,1978,Population density (people per sq. km of land area),EN.POP.DNST,12.88365859
+Peru,PER,1977,Population density (people per sq. km of land area),EN.POP.DNST,12.54790859
+Peru,PER,1976,Population density (people per sq. km of land area),EN.POP.DNST,12.21867266
+Peru,PER,1975,Population density (people per sq. km of land area),EN.POP.DNST,11.89839609
+Peru,PER,1974,Population density (people per sq. km of land area),EN.POP.DNST,11.58815703
+Peru,PER,1973,Population density (people per sq. km of land area),EN.POP.DNST,11.287225
+Peru,PER,1972,Population density (people per sq. km of land area),EN.POP.DNST,10.99412188
+Peru,PER,1971,Population density (people per sq. km of land area),EN.POP.DNST,10.70651172
+Peru,PER,1970,Population density (people per sq. km of land area),EN.POP.DNST,10.42271016
+Peru,PER,1969,Population density (people per sq. km of land area),EN.POP.DNST,10.14253828
+Peru,PER,1968,Population density (people per sq. km of land area),EN.POP.DNST,9.866663281
+Peru,PER,1967,Population density (people per sq. km of land area),EN.POP.DNST,9.595376563
+Peru,PER,1966,Population density (people per sq. km of land area),EN.POP.DNST,9.329160156
+Peru,PER,1965,Population density (people per sq. km of land area),EN.POP.DNST,9.068500781
+Peru,PER,1964,Population density (people per sq. km of land area),EN.POP.DNST,8.813292969
+Peru,PER,1963,Population density (people per sq. km of land area),EN.POP.DNST,8.563703125
+Peru,PER,1962,Population density (people per sq. km of land area),EN.POP.DNST,8.320833594
+Peru,PER,1961,Population density (people per sq. km of land area),EN.POP.DNST,8.086126563
+Peru,PER,1960,Population density (people per sq. km of land area),EN.POP.DNST,
+Peru,PER,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10194477
+Peru,PER,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10002049
+Peru,PER,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,9812737
+Peru,PER,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,9627261
+Peru,PER,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,9445291
+Peru,PER,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,9267004
+Peru,PER,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,9091604
+Peru,PER,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8919759
+Peru,PER,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8751162
+Peru,PER,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8585977
+Peru,PER,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8419760
+Peru,PER,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8248771
+Peru,PER,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8081255
+Peru,PER,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7917365
+Peru,PER,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7756360
+Peru,PER,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7598844
+Peru,PER,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7444526
+Peru,PER,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7293549
+Peru,PER,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7145230
+Peru,PER,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7000124
+Peru,PER,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6857966
+Peru,PER,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6718884
+Peru,PER,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6582251
+Peru,PER,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6448579
+Peru,PER,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6316612
+Peru,PER,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6152576
+Peru,PER,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5992365
+Peru,PER,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5836537
+Peru,PER,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5684762
+Peru,PER,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5537135
+Peru,PER,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5392950
+Peru,PER,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5252710
+Peru,PER,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5116117
+Peru,PER,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4983256
+Peru,PER,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4853494
+Peru,PER,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4727282
+Peru,PER,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4602931
+Peru,PER,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4437754
+Peru,PER,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4278073
+Peru,PER,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4124346
+Peru,PER,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3976143
+Peru,PER,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3833458
+Peru,PER,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3695522
+Peru,PER,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3562728
+Peru,PER,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3434706
+Peru,PER,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3311451
+Peru,PER,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3143367
+Peru,PER,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2980371
+Peru,PER,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2825827
+Peru,PER,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2679493
+Peru,PER,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2540364
+Peru,PER,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2408636
+Peru,PER,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2283738
+Peru,PER,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2165476
+Peru,PER,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2053037
+Peru,PER,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1946579
+Peru,PER,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1845658
+Peru,PER,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1755920
+Peru,PER,2017,GNI (current US$),NY.GNP.MKTP.CD,2.02867E+11
+Peru,PER,2016,GNI (current US$),NY.GNP.MKTP.CD,1.83682E+11
+Peru,PER,2015,GNI (current US$),NY.GNP.MKTP.CD,1.83427E+11
+Peru,PER,2014,GNI (current US$),NY.GNP.MKTP.CD,1.9199E+11
+Peru,PER,2013,GNI (current US$),NY.GNP.MKTP.CD,1.91451E+11
+Peru,PER,2012,GNI (current US$),NY.GNP.MKTP.CD,1.80709E+11
+Peru,PER,2011,GNI (current US$),NY.GNP.MKTP.CD,1.58896E+11
+Peru,PER,2010,GNI (current US$),NY.GNP.MKTP.CD,1.36693E+11
+Peru,PER,2009,GNI (current US$),NY.GNP.MKTP.CD,1.13308E+11
+Peru,PER,2008,GNI (current US$),NY.GNP.MKTP.CD,1.12245E+11
+Peru,PER,2007,GNI (current US$),NY.GNP.MKTP.CD,94276765740
+Peru,PER,2006,GNI (current US$),NY.GNP.MKTP.CD,81483192756
+Peru,PER,2005,GNI (current US$),NY.GNP.MKTP.CD,71336034732
+Peru,PER,2004,GNI (current US$),NY.GNP.MKTP.CD,63395270900
+Peru,PER,2003,GNI (current US$),NY.GNP.MKTP.CD,56867481145
+Peru,PER,2002,GNI (current US$),NY.GNP.MKTP.CD,53584601501
+Peru,PER,2001,GNI (current US$),NY.GNP.MKTP.CD,51181349334
+Peru,PER,2000,GNI (current US$),NY.GNP.MKTP.CD,50584450185
+Peru,PER,1999,GNI (current US$),NY.GNP.MKTP.CD,49318340700
+Peru,PER,1998,GNI (current US$),NY.GNP.MKTP.CD,54566466136
+Peru,PER,1997,GNI (current US$),NY.GNP.MKTP.CD,56604257320
+Peru,PER,1996,GNI (current US$),NY.GNP.MKTP.CD,53618138247
+Peru,PER,1995,GNI (current US$),NY.GNP.MKTP.CD,51082699264
+Peru,PER,1994,GNI (current US$),NY.GNP.MKTP.CD,43150876480
+Peru,PER,1993,GNI (current US$),NY.GNP.MKTP.CD,33653695692
+Peru,PER,1992,GNI (current US$),NY.GNP.MKTP.CD,34897208893
+Peru,PER,1991,GNI (current US$),NY.GNP.MKTP.CD,33468062733
+Peru,PER,1990,GNI (current US$),NY.GNP.MKTP.CD,24799606361
+Peru,PER,1989,GNI (current US$),NY.GNP.MKTP.CD,20917466461
+Peru,PER,1988,GNI (current US$),NY.GNP.MKTP.CD,13993512558
+Peru,PER,1987,GNI (current US$),NY.GNP.MKTP.CD,19485860399
+Peru,PER,1986,GNI (current US$),NY.GNP.MKTP.CD,14213641930
+Peru,PER,1985,GNI (current US$),NY.GNP.MKTP.CD,15651964464
+Peru,PER,1984,GNI (current US$),NY.GNP.MKTP.CD,16503996562
+Peru,PER,1983,GNI (current US$),NY.GNP.MKTP.CD,16295935576
+Peru,PER,1982,GNI (current US$),NY.GNP.MKTP.CD,20862312378
+Peru,PER,1981,GNI (current US$),NY.GNP.MKTP.CD,20732312502
+Peru,PER,1980,GNI (current US$),NY.GNP.MKTP.CD,17310339581
+Peru,PER,1979,GNI (current US$),NY.GNP.MKTP.CD,15070330430
+Peru,PER,1978,GNI (current US$),NY.GNP.MKTP.CD,11977106295
+Peru,PER,1977,GNI (current US$),NY.GNP.MKTP.CD,14267400585
+Peru,PER,1976,GNI (current US$),NY.GNP.MKTP.CD,15243564005
+Peru,PER,1975,GNI (current US$),NY.GNP.MKTP.CD,16295122538
+Peru,PER,1974,GNI (current US$),NY.GNP.MKTP.CD,13396771927
+Peru,PER,1973,GNI (current US$),NY.GNP.MKTP.CD,10594850492
+Peru,PER,1972,GNI (current US$),NY.GNP.MKTP.CD,8880977670
+Peru,PER,1971,GNI (current US$),NY.GNP.MKTP.CD,8013653511
+Peru,PER,1970,GNI (current US$),NY.GNP.MKTP.CD,7154120642
+Peru,PER,1969,GNI (current US$),NY.GNP.MKTP.CD,6112812905
+Peru,PER,1968,GNI (current US$),NY.GNP.MKTP.CD,5461022190
+Peru,PER,1967,GNI (current US$),NY.GNP.MKTP.CD,5936541574
+Peru,PER,1966,GNI (current US$),NY.GNP.MKTP.CD,5864723969
+Peru,PER,1965,GNI (current US$),NY.GNP.MKTP.CD,4976015912
+Peru,PER,1964,GNI (current US$),NY.GNP.MKTP.CD,4177829472
+Peru,PER,1963,GNI (current US$),NY.GNP.MKTP.CD,3457707023
+Peru,PER,1962,GNI (current US$),NY.GNP.MKTP.CD,3148119559
+Peru,PER,1961,GNI (current US$),NY.GNP.MKTP.CD,2754451316
+Peru,PER,1960,GNI (current US$),NY.GNP.MKTP.CD,2433616415
+Peru,PER,2017,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,2016,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,3.5
+Peru,PER,2015,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,3.6
+Peru,PER,2014,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,3.7
+Peru,PER,2013,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4.3
+Peru,PER,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4.7
+Peru,PER,2011,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,5.2
+Peru,PER,2010,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,5.5
+Peru,PER,2009,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,7
+Peru,PER,2008,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,8.9
+Peru,PER,2007,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11.1
+Peru,PER,2006,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,13.5
+Peru,PER,2005,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,15.5
+Peru,PER,2004,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,13.6
+Peru,PER,2003,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11.9
+Peru,PER,2002,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,15.1
+Peru,PER,2001,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,17.1
+Peru,PER,2000,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,16.4
+Peru,PER,1999,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,17.6
+Peru,PER,1998,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,16.7
+Peru,PER,1997,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,17.9
+Peru,PER,1996,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1995,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1994,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1993,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1992,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1991,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1990,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1989,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1988,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1987,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1986,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1985,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1984,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1983,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1982,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1981,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1980,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1979,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1978,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1977,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1976,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1975,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1974,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1973,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1972,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1971,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1970,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1969,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1968,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1967,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1966,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1965,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1964,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1963,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1962,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1961,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,1960,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Peru,PER,2017,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+Peru,PER,2016,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,93.364
+Peru,PER,2015,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,94.743
+Peru,PER,2014,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,96.121
+Peru,PER,2013,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,97.5
+Peru,PER,2012,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,98.878
+Peru,PER,2011,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,100.277
+Peru,PER,2010,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,101.675
+Peru,PER,2009,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,103.074
+Peru,PER,2008,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,104.472
+Peru,PER,2007,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,105.871
+Peru,PER,2006,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,107.827
+Peru,PER,2005,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,109.782
+Peru,PER,2004,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,111.738
+Peru,PER,2003,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,113.693
+Peru,PER,2002,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,115.649
+Peru,PER,2001,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,118.254
+Peru,PER,2000,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,120.86
+Peru,PER,1999,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,123.465
+Peru,PER,1998,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,126.071
+Peru,PER,1997,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,128.676
+Peru,PER,1996,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,131.61
+Peru,PER,1995,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,134.544
+Peru,PER,1994,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,137.478
+Peru,PER,1993,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,140.412
+Peru,PER,1992,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,143.346
+Peru,PER,1991,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,145.69
+Peru,PER,1990,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,148.034
+Peru,PER,1989,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,150.377
+Peru,PER,1988,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,152.721
+Peru,PER,1987,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,155.065
+Peru,PER,1986,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,158.034
+Peru,PER,1985,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,161.003
+Peru,PER,1984,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,163.972
+Peru,PER,1983,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,166.941
+Peru,PER,1982,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,169.91
+Peru,PER,1981,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,173.246
+Peru,PER,1980,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,176.582
+Peru,PER,1979,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,179.918
+Peru,PER,1978,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,183.253
+Peru,PER,1977,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,186.589
+Peru,PER,1976,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,192.356
+Peru,PER,1975,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,198.124
+Peru,PER,1974,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,203.891
+Peru,PER,1973,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,209.658
+Peru,PER,1972,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,215.426
+Peru,PER,1971,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,223.403
+Peru,PER,1970,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,231.381
+Peru,PER,1969,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,239.359
+Peru,PER,1968,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,247.337
+Peru,PER,1967,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,255.314
+Peru,PER,1966,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,260.138
+Peru,PER,1965,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,264.962
+Peru,PER,1964,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,269.786
+Peru,PER,1963,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,274.61
+Peru,PER,1962,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,279.433
+Peru,PER,1961,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,285.333
+Peru,PER,1960,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,291.233
+Peru,PER,2017,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+Peru,PER,2016,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,151.637
+Peru,PER,2015,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,153.397
+Peru,PER,2014,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,155.156
+Peru,PER,2013,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,156.916
+Peru,PER,2012,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,158.675
+Peru,PER,2011,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,160.768
+Peru,PER,2010,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,162.861
+Peru,PER,2009,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,164.953
+Peru,PER,2008,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,167.046
+Peru,PER,2007,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,169.139
+Peru,PER,2006,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,171.594
+Peru,PER,2005,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,174.049
+Peru,PER,2004,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,176.504
+Peru,PER,2003,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,178.959
+Peru,PER,2002,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,181.414
+Peru,PER,2001,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,183.855
+Peru,PER,2000,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,186.297
+Peru,PER,1999,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,188.739
+Peru,PER,1998,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,191.181
+Peru,PER,1997,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,193.623
+Peru,PER,1996,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,196.656
+Peru,PER,1995,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,199.689
+Peru,PER,1994,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,202.723
+Peru,PER,1993,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,205.756
+Peru,PER,1992,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,208.789
+Peru,PER,1991,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,211.592
+Peru,PER,1990,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,214.396
+Peru,PER,1989,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,217.199
+Peru,PER,1988,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,220.003
+Peru,PER,1987,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,222.806
+Peru,PER,1986,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,225.91
+Peru,PER,1985,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,229.013
+Peru,PER,1984,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,232.116
+Peru,PER,1983,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,235.219
+Peru,PER,1982,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,238.323
+Peru,PER,1981,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,241.573
+Peru,PER,1980,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,244.824
+Peru,PER,1979,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,248.074
+Peru,PER,1978,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,251.325
+Peru,PER,1977,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,254.575
+Peru,PER,1976,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,259.947
+Peru,PER,1975,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,265.318
+Peru,PER,1974,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,270.69
+Peru,PER,1973,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,276.061
+Peru,PER,1972,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,281.433
+Peru,PER,1971,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,289
+Peru,PER,1970,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,296.568
+Peru,PER,1969,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,304.135
+Peru,PER,1968,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,311.703
+Peru,PER,1967,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,319.27
+Peru,PER,1966,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,323.796
+Peru,PER,1965,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,328.321
+Peru,PER,1964,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,332.846
+Peru,PER,1963,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,337.371
+Peru,PER,1962,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,341.897
+Peru,PER,1961,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,347.367
+Peru,PER,1960,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,352.838
+Peru,PER,2017,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2016,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.893389
+Peru,PER,2015,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2014,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.840685
+Peru,PER,2013,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2012,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.94
+Peru,PER,2011,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2010,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.8
+Peru,PER,2009,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2008,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2007,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.77
+Peru,PER,2006,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2005,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2004,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2003,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2002,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2001,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2000,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1999,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1998,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1997,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1996,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1995,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1994,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1993,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1992,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1991,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1990,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1989,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1988,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1987,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1986,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1985,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1984,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1983,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1982,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1981,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1980,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1979,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1978,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1977,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1976,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1975,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1974,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1973,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1972,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1971,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1970,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1969,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1968,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1967,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1966,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1965,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1964,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1963,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1962,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1961,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,1960,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Peru,PER,2017,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2016,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2015,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2014,Rail lines (total route-km),IS.RRS.TOTL.KM,2020
+Peru,PER,2013,Rail lines (total route-km),IS.RRS.TOTL.KM,1929
+Peru,PER,2012,Rail lines (total route-km),IS.RRS.TOTL.KM,1929
+Peru,PER,2011,Rail lines (total route-km),IS.RRS.TOTL.KM,1929
+Peru,PER,2010,Rail lines (total route-km),IS.RRS.TOTL.KM,2020
+Peru,PER,2009,Rail lines (total route-km),IS.RRS.TOTL.KM,2020
+Peru,PER,2008,Rail lines (total route-km),IS.RRS.TOTL.KM,2020
+Peru,PER,2007,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2006,Rail lines (total route-km),IS.RRS.TOTL.KM,2177
+Peru,PER,2005,Rail lines (total route-km),IS.RRS.TOTL.KM,2177
+Peru,PER,2004,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2003,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2002,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2001,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2000,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1999,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1998,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1997,Rail lines (total route-km),IS.RRS.TOTL.KM,1691
+Peru,PER,1996,Rail lines (total route-km),IS.RRS.TOTL.KM,1691.02
+Peru,PER,1995,Rail lines (total route-km),IS.RRS.TOTL.KM,1609
+Peru,PER,1994,Rail lines (total route-km),IS.RRS.TOTL.KM,1609.9
+Peru,PER,1993,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1992,Rail lines (total route-km),IS.RRS.TOTL.KM,1611.1
+Peru,PER,1991,Rail lines (total route-km),IS.RRS.TOTL.KM,1611.1
+Peru,PER,1990,Rail lines (total route-km),IS.RRS.TOTL.KM,1611.1
+Peru,PER,1989,Rail lines (total route-km),IS.RRS.TOTL.KM,1672.5
+Peru,PER,1988,Rail lines (total route-km),IS.RRS.TOTL.KM,1672.5
+Peru,PER,1987,Rail lines (total route-km),IS.RRS.TOTL.KM,1672.5
+Peru,PER,1986,Rail lines (total route-km),IS.RRS.TOTL.KM,1672.5
+Peru,PER,1985,Rail lines (total route-km),IS.RRS.TOTL.KM,1720
+Peru,PER,1984,Rail lines (total route-km),IS.RRS.TOTL.KM,1888
+Peru,PER,1983,Rail lines (total route-km),IS.RRS.TOTL.KM,1888
+Peru,PER,1982,Rail lines (total route-km),IS.RRS.TOTL.KM,1888
+Peru,PER,1981,Rail lines (total route-km),IS.RRS.TOTL.KM,1888
+Peru,PER,1980,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1979,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1978,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1977,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1976,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1975,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1974,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1973,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1972,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1971,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1970,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1969,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1968,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1967,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1966,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1965,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1964,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1963,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1962,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1961,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,1960,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Peru,PER,2017,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,4.14693E+11
+Peru,PER,2016,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3.96823E+11
+Peru,PER,2015,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3.79802E+11
+Peru,PER,2014,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3.59755E+11
+Peru,PER,2013,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3.44007E+11
+Peru,PER,2012,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3.15304E+11
+Peru,PER,2011,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2.87672E+11
+Peru,PER,2010,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2.65497E+11
+Peru,PER,2009,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2.45059E+11
+Peru,PER,2008,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2.38858E+11
+Peru,PER,2007,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2.12741E+11
+Peru,PER,2006,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.90234E+11
+Peru,PER,2005,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.75124E+11
+Peru,PER,2004,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.61605E+11
+Peru,PER,2003,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.52817E+11
+Peru,PER,2002,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.45317E+11
+Peru,PER,2001,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.36476E+11
+Peru,PER,2000,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.31792E+11
+Peru,PER,1999,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.26135E+11
+Peru,PER,1998,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.22462E+11
+Peru,PER,1997,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.20424E+11
+Peru,PER,1996,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.10849E+11
+Peru,PER,1995,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.04561E+11
+Peru,PER,1994,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,95681358866
+Peru,PER,1993,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,83053975910
+Peru,PER,1992,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,77760213918
+Peru,PER,1991,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,76411846851
+Peru,PER,1990,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,70376500603
+Peru,PER,1989,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1988,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1987,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1986,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1985,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1984,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1983,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1982,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1981,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1980,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1979,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1978,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1977,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1976,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1975,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1974,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1973,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1972,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1971,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1970,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1969,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1968,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1967,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1966,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1965,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1964,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1963,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1962,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1961,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,1960,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Peru,PER,2017,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,13434.1256
+Peru,PER,2016,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,13030.0139
+Peru,PER,2015,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,12533.49118
+Peru,PER,2014,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,12164.9573
+Peru,PER,2013,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,11828.80684
+Peru,PER,2012,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,11145.5119
+Peru,PER,2011,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,10449.09326
+Peru,PER,2010,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,9755.149148
+Peru,PER,2009,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,9010.325505
+Peru,PER,2008,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,8956.515287
+Peru,PER,2007,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,8148.92185
+Peru,PER,2006,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,7404.295238
+Peru,PER,2005,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,6762.772656
+Peru,PER,2004,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,6240.731544
+Peru,PER,2003,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5858.862946
+Peru,PER,2002,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5584.343153
+Peru,PER,2001,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5283.029045
+Peru,PER,2000,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5202.233095
+Peru,PER,1999,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5021.549362
+Peru,PER,1998,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,4942.929659
+Peru,PER,1997,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,4982.705616
+Peru,PER,1996,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,4673.595535
+Peru,PER,1995,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,4539.560345
+Peru,PER,1994,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,4213.496468
+Peru,PER,1993,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,3742.489113
+Peru,PER,1992,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,3541.696649
+Peru,PER,1991,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,3552.502515
+Peru,PER,1990,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,3433.763634
+Peru,PER,1989,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1988,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1987,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1986,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1985,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1984,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1983,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1982,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1981,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1980,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1979,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1978,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1977,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1976,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1975,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1974,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1973,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1972,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1971,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1970,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1969,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1968,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1967,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1966,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1965,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1964,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1963,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1962,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1961,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,1960,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Peru,PER,2017,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,12890
+Peru,PER,2016,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,12490
+Peru,PER,2015,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,12100
+Peru,PER,2014,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,11610
+Peru,PER,2013,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,11250
+Peru,PER,2012,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,10450
+Peru,PER,2011,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,9670
+Peru,PER,2010,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,9040
+Peru,PER,2009,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,8450
+Peru,PER,2008,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,8340
+Peru,PER,2007,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,7520
+Peru,PER,2006,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,6810
+Peru,PER,2005,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,6340
+Peru,PER,2004,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5930
+Peru,PER,2003,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5670
+Peru,PER,2002,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5460
+Peru,PER,2001,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5200
+Peru,PER,2000,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5090
+Peru,PER,1999,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,4930
+Peru,PER,1998,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,4860
+Peru,PER,1997,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,4850
+Peru,PER,1996,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,4540
+Peru,PER,1995,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,4350
+Peru,PER,1994,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,4050
+Peru,PER,1993,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,3580
+Peru,PER,1992,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,3420
+Peru,PER,1991,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,3430
+Peru,PER,1990,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,3220
+Peru,PER,1989,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1988,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1987,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1986,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1985,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1984,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1983,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1982,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1981,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1980,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1979,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1978,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1977,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1976,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1975,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1974,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1973,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1972,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1971,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1970,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1969,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1968,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1967,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1966,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1965,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1964,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1963,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1962,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1961,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,1960,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Peru,PER,2017,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Peru,PER,2016,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,10.07778758
+Peru,PER,2015,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,10.67130417
+Peru,PER,2014,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,10.59943331
+Peru,PER,2013,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,11.89764375
+Peru,PER,2012,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,12.78425792
+Peru,PER,2011,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,20.08770904
+Peru,PER,2010,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,-10.08761391
+Peru,PER,2009,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,15.09404322
+Peru,PER,2008,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,16.36094991
+Peru,PER,2007,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,11.11840627
+Peru,PER,2006,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,16.44654458
+Peru,PER,2005,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,16.5035579
+Peru,PER,2004,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,17.21030547
+Peru,PER,2003,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,18.55909357
+Peru,PER,2002,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,18.4779283
+Peru,PER,2001,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,17.27595022
+Peru,PER,2000,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,15.49495948
+Peru,PER,1999,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,17.50184918
+Peru,PER,1998,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,19.76249921
+Peru,PER,1997,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,15.8389483
+Peru,PER,1996,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,13.45685546
+Peru,PER,1995,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,15.4799998
+Peru,PER,1994,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,14.1777786
+Peru,PER,1993,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,24.37001568
+Peru,PER,1992,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,17.89061873
+Peru,PER,1991,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,27.39830781
+Peru,PER,1990,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,18.19243239
+Peru,PER,1989,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,14.36670063
+Peru,PER,1988,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,13.06462801
+Peru,PER,1987,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,14.274601
+Peru,PER,1986,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,13.44901967
+Peru,PER,1985,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,15.97803546
+Peru,PER,1984,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,16.07993137
+Peru,PER,1983,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,15.511425
+Peru,PER,1982,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,10.06379443
+Peru,PER,1981,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,12.86100153
+Peru,PER,1980,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,11.56222205
+Peru,PER,1979,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,11.89795798
+Peru,PER,1978,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,8.731991707
+Peru,PER,1977,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,6.293379443
+Peru,PER,1976,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,5.335711524
+Peru,PER,1975,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,5.028251247
+Peru,PER,1974,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,5.423101347
+Peru,PER,1973,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,6.569927507
+Peru,PER,1972,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,4.429213452
+Peru,PER,1971,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,3.970276558
+Peru,PER,1970,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,4.234293369
+Peru,PER,1969,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,3.012528684
+Peru,PER,1968,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,4.201331678
+Peru,PER,1967,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,4.140177537
+Peru,PER,1966,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,3.789361733
+Peru,PER,1965,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,4.860574649
+Peru,PER,1964,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,2.236500882
+Peru,PER,1963,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,1.083789322
+Peru,PER,1962,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,0.583062075
+Peru,PER,1961,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,-1.97290073
+Peru,PER,1960,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,-1.176761154
+Peru,PER,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,120.9849191
+Peru,PER,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,116.2376413
+Peru,PER,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,109.1123083
+Peru,PER,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,102.9273194
+Peru,PER,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,97.47292359
+Peru,PER,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,97.44391436
+Peru,PER,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,109.0773757
+Peru,PER,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,99.11996965
+Peru,PER,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,85.16923276
+Peru,PER,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,73.15078776
+Peru,PER,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,54.4919146
+Peru,PER,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,32.62976126
+Peru,PER,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,20.22192354
+Peru,PER,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,15.0057892
+Peru,PER,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,10.87820737
+Peru,PER,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,8.672239768
+Peru,PER,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,6.828602156
+Peru,PER,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,4.91554292
+Peru,PER,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,3.9642508
+Peru,PER,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.947021534
+Peru,PER,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.698985387
+Peru,PER,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.822271558
+Peru,PER,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.305935082
+Peru,PER,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.221005179
+Peru,PER,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.156571959
+Peru,PER,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.094779201
+Peru,PER,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.025579892
+Peru,PER,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.007559563
+Peru,PER,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1974,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1973,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1972,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1971,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1969,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1968,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1967,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1966,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,1964,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1963,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1962,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1961,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Peru,PER,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Peru,PER,2017,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,2.36726E+11
+Peru,PER,2016,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,2.30907E+11
+Peru,PER,2015,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,2.236E+11
+Peru,PER,2014,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,2.15047E+11
+Peru,PER,2013,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,2.06974E+11
+Peru,PER,2012,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.95753E+11
+Peru,PER,2011,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.82205E+11
+Peru,PER,2010,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.69965E+11
+Peru,PER,2009,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.55787E+11
+Peru,PER,2008,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.51143E+11
+Peru,PER,2007,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.38794E+11
+Peru,PER,2006,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.27744E+11
+Peru,PER,2005,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.20273E+11
+Peru,PER,2004,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.16026E+11
+Peru,PER,2003,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.12214E+11
+Peru,PER,2002,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.09462E+11
+Peru,PER,2001,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.04378E+11
+Peru,PER,2000,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.0334E+11
+Peru,PER,1999,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.00796E+11
+Peru,PER,1998,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.02263E+11
+Peru,PER,1997,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.04325E+11
+Peru,PER,1996,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1.00677E+11
+Peru,PER,1995,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,98349089368
+Peru,PER,1994,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,89802768206
+Peru,PER,1993,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,82042373725
+Peru,PER,1992,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,78558026607
+Peru,PER,1991,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,79144765258
+Peru,PER,1990,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,76308500931
+Peru,PER,1989,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1988,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1987,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1986,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1985,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1984,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1983,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1982,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1981,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1980,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1979,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1978,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1977,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1976,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1975,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1974,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1973,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1972,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1971,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1970,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1969,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1968,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1967,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1966,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1965,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1964,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1963,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1962,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1961,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,1960,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Peru,PER,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.85174561
+Peru,PER,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,93.852179
+Peru,PER,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,92.919989
+Peru,PER,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,92.135365
+Peru,PER,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.099508
+Peru,PER,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,89.707491
+Peru,PER,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.123061
+Peru,PER,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.42432
+Peru,PER,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,84.678343
+Peru,PER,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,81.988131
+Peru,PER,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,80.157275
+Peru,PER,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,77.173645
+Peru,PER,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,75.692357
+Peru,PER,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,74.380966
+Peru,PER,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,74.382688
+Peru,PER,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.113111
+Peru,PER,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.496495
+Peru,PER,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,74.078523
+Peru,PER,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.072063
+Peru,PER,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,69.16024
+Peru,PER,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,67
+Peru,PER,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,67.15769958
+Peru,PER,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,65.78325653
+Peru,PER,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,64.39963531
+Peru,PER,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.1
+Peru,PER,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,61.61709595
+Peru,PER,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,60.22378922
+Peru,PER,1989,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1988,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1987,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1986,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1985,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1984,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1983,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1982,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1981,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1980,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1979,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1978,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1977,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1976,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1975,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1974,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1973,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1972,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1971,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1970,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1969,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1968,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1967,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1966,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1965,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1964,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1963,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1962,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1961,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,1960,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Peru,PER,2017,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,2016,GINI index (World Bank estimate),SI.POV.GINI,43.8
+Peru,PER,2015,GINI index (World Bank estimate),SI.POV.GINI,43.5
+Peru,PER,2014,GINI index (World Bank estimate),SI.POV.GINI,43.4
+Peru,PER,2013,GINI index (World Bank estimate),SI.POV.GINI,44.1
+Peru,PER,2012,GINI index (World Bank estimate),SI.POV.GINI,44.7
+Peru,PER,2011,GINI index (World Bank estimate),SI.POV.GINI,44.9
+Peru,PER,2010,GINI index (World Bank estimate),SI.POV.GINI,45.7
+Peru,PER,2009,GINI index (World Bank estimate),SI.POV.GINI,47.3
+Peru,PER,2008,GINI index (World Bank estimate),SI.POV.GINI,47.8
+Peru,PER,2007,GINI index (World Bank estimate),SI.POV.GINI,50.4
+Peru,PER,2006,GINI index (World Bank estimate),SI.POV.GINI,50.5
+Peru,PER,2005,GINI index (World Bank estimate),SI.POV.GINI,50.8
+Peru,PER,2004,GINI index (World Bank estimate),SI.POV.GINI,50.3
+Peru,PER,2003,GINI index (World Bank estimate),SI.POV.GINI,53.5
+Peru,PER,2002,GINI index (World Bank estimate),SI.POV.GINI,53.8
+Peru,PER,2001,GINI index (World Bank estimate),SI.POV.GINI,51.5
+Peru,PER,2000,GINI index (World Bank estimate),SI.POV.GINI,49.4
+Peru,PER,1999,GINI index (World Bank estimate),SI.POV.GINI,56.3
+Peru,PER,1998,GINI index (World Bank estimate),SI.POV.GINI,56.1
+Peru,PER,1997,GINI index (World Bank estimate),SI.POV.GINI,53.7
+Peru,PER,1996,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1995,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1994,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1993,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1992,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1991,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1990,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1989,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1988,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1987,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1986,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1985,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1984,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1983,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1982,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1981,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1980,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1979,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1978,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1977,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1976,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1975,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1974,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1973,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1972,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1971,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1970,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1969,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1968,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1967,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1966,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1965,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1964,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1963,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1962,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1961,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,1960,GINI index (World Bank estimate),SI.POV.GINI,
+Peru,PER,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.803510546
+Peru,PER,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.595722243
+Peru,PER,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.555396247
+Peru,PER,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.226046789
+Peru,PER,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.816502821
+Peru,PER,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.653732359
+Peru,PER,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.370685025
+Peru,PER,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.528320597
+Peru,PER,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.936231536
+Peru,PER,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.785875982
+Peru,PER,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.779986447
+Peru,PER,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.002258012
+Peru,PER,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.616301939
+Peru,PER,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.662473201
+Peru,PER,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.259377534
+Peru,PER,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.193135004
+Peru,PER,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.977098785
+Peru,PER,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.757338333
+Peru,PER,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.469659963
+Peru,PER,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.247821752
+Peru,PER,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.56218949
+Peru,PER,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.53794241
+Peru,PER,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.12870297
+Peru,PER,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,23.73690506
+Peru,PER,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,48.57998645
+Peru,PER,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,73.52829424
+Peru,PER,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,409.5301666
+Peru,PER,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7481.663611
+Peru,PER,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3398.67901
+Peru,PER,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,667.0193286
+Peru,PER,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,85.82230624
+Peru,PER,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,77.92102555
+Peru,PER,1985,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,163.3995052
+Peru,PER,1984,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,110.2085196
+Peru,PER,1983,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,111.1506352
+Peru,PER,1982,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,64.44815854
+Peru,PER,1981,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,75.43326876
+Peru,PER,1980,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,59.14507124
+Peru,PER,1979,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,66.69442297
+Peru,PER,1978,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,57.84878263
+Peru,PER,1977,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,38.05409142
+Peru,PER,1976,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,33.48327566
+Peru,PER,1975,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,23.6187353
+Peru,PER,1974,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,16.89166667
+Peru,PER,1973,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.489051095
+Peru,PER,1972,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.219722168
+Peru,PER,1971,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.790639365
+Peru,PER,1970,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.025235901
+Peru,PER,1969,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.236158061
+Peru,PER,1968,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,19.08661855
+Peru,PER,1967,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.783602561
+Peru,PER,1966,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.840603749
+Peru,PER,1965,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,16.38996139
+Peru,PER,1964,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.792284867
+Peru,PER,1963,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.070143884
+Peru,PER,1962,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.641093264
+Peru,PER,1961,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.916708988
+Peru,PER,1960,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.664459163
+Peru,PER,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,8.8
+Peru,PER,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,9
+Peru,PER,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,9.3
+Peru,PER,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,9.3
+Peru,PER,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,9.5
+Peru,PER,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,10.2
+Peru,PER,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,11.2
+Peru,PER,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,12.6
+Peru,PER,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,14.2
+Peru,PER,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,15.7
+Peru,PER,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,17.6
+Peru,PER,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,19.6
+Peru,PER,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,21.6
+Peru,PER,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,22.6
+Peru,PER,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,22.3
+Peru,PER,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,21.7
+Peru,PER,2000,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,21.8
+Peru,PER,1999,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1998,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1997,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1996,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1995,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1994,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1993,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1992,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1991,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1990,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1989,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1988,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1987,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1986,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1985,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1984,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1983,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1982,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1981,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1980,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1979,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1978,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1977,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1976,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1975,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1974,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1973,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1972,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1971,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1970,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1969,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1968,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1967,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1966,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1965,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1964,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1963,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1962,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1961,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,1960,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Peru,PER,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.581811062
+Peru,PER,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.67608604
+Peru,PER,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.27917114
+Peru,PER,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.790854423
+Peru,PER,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.48852904
+Peru,PER,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,11.32491744
+Peru,PER,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.9221949
+Peru,PER,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.75754777
+Peru,PER,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.23594691
+Peru,PER,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.73748393
+Peru,PER,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.05314653
+Peru,PER,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.156483462
+Peru,PER,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,8.701884543
+Peru,PER,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,8.04305869
+Peru,PER,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.82746636
+Peru,PER,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.227566322
+Peru,PER,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,5.982004818
+Peru,PER,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.625988877
+Peru,PER,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.603733245
+Peru,PER,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.171065679
+Peru,PER,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.629448119
+Peru,PER,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,5.871865533
+Peru,PER,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.614343668
+Peru,PER,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.2701569
+Peru,PER,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.902926075
+Peru,PER,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.699166506
+Peru,PER,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.422972215
+Peru,PER,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.586305242
+Peru,PER,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.483398856
+Peru,PER,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.340518687
+Peru,PER,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.220352235
+Peru,PER,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.227002229
+Peru,PER,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.112151084
+Peru,PER,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.01198623
+Peru,PER,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.937896531
+Peru,PER,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.818840727
+Peru,PER,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.80778482
+Peru,PER,1980,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.744414463
+Peru,PER,1979,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.695741143
+Peru,PER,1978,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.6966745
+Peru,PER,1977,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.664246463
+Peru,PER,1976,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.624051201
+Peru,PER,1975,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.569276636
+Peru,PER,1974,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1973,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1972,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1971,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1970,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.049391169
+Peru,PER,1969,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1968,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1967,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1966,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1965,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.715043771
+Peru,PER,1964,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1963,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1962,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1961,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,1960,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Peru,PER,2017,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,12236.70615
+Peru,PER,2016,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,12082.16801
+Peru,PER,2015,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,11770.03445
+Peru,PER,2014,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,11547.83422
+Peru,PER,2013,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,11430.25578
+Peru,PER,2012,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,10943.91927
+Peru,PER,2011,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,10449.09326
+Peru,PER,2010,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,9956.556637
+Peru,PER,2009,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,9308.674789
+Peru,PER,2008,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,9323.353938
+Peru,PER,2007,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,8649.080663
+Peru,PER,2006,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,8067.898678
+Peru,PER,2005,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,7595.271846
+Peru,PER,2004,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,7234.490542
+Peru,PER,2003,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6978.570061
+Peru,PER,2002,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6784.222227
+Peru,PER,2001,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6516.693156
+Peru,PER,2000,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6563.267935
+Peru,PER,1999,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6479.474097
+Peru,PER,1998,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6475.632815
+Peru,PER,1997,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6598.585226
+Peru,PER,1996,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6295.160401
+Peru,PER,1995,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6226.245611
+Peru,PER,1994,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,5899.563783
+Peru,PER,1993,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,5351.594571
+Peru,PER,1992,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,5184.96718
+Peru,PER,1991,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,5319.341299
+Peru,PER,1990,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,5312.684664
+Peru,PER,1989,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1988,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1987,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1986,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1985,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1984,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1983,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1982,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1981,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1980,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1979,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1978,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1977,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1976,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1975,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1974,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1973,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1972,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1971,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1970,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1969,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1968,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1967,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1966,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1965,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1964,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1963,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1962,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1961,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,1960,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Peru,PER,2017,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+Peru,PER,2016,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+Peru,PER,2015,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+Peru,PER,2014,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2013,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2012,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2011,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2010,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2009,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2008,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2007,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2006,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2005,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Peru,PER,2004,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Peru,PER,2003,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Peru,PER,2002,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Peru,PER,2001,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Peru,PER,2000,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Peru,PER,1999,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Peru,PER,1998,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Peru,PER,1997,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Peru,PER,1996,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Peru,PER,1995,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Peru,PER,1994,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Peru,PER,1993,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Peru,PER,1992,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Peru,PER,1991,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Peru,PER,1990,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Peru,PER,1989,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1988,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1987,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1986,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1985,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1984,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1983,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1982,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1981,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1980,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1979,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1978,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1977,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1976,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1975,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1974,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1973,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1972,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1971,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1970,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1969,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1968,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1967,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1966,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1965,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1964,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1963,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1962,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1961,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,1960,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Peru,PER,2017,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.72
+Peru,PER,2016,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.539
+Peru,PER,2015,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.357
+Peru,PER,2014,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.173
+Peru,PER,2013,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.989
+Peru,PER,2012,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.804
+Peru,PER,2011,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.617
+Peru,PER,2010,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.43
+Peru,PER,2009,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.241
+Peru,PER,2008,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.052
+Peru,PER,2007,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.803
+Peru,PER,2006,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.421
+Peru,PER,2005,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.034
+Peru,PER,2004,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.644
+Peru,PER,2003,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.249
+Peru,PER,2002,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.85
+Peru,PER,2001,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.448
+Peru,PER,2000,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.042
+Peru,PER,1999,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.631
+Peru,PER,1998,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.216
+Peru,PER,1997,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.798
+Peru,PER,1996,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.377
+Peru,PER,1995,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.951
+Peru,PER,1994,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.521
+Peru,PER,1993,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.089
+Peru,PER,1992,Urban population (% of total),SP.URB.TOTL.IN.ZS,69.697
+Peru,PER,1991,Urban population (% of total),SP.URB.TOTL.IN.ZS,69.3
+Peru,PER,1990,Urban population (% of total),SP.URB.TOTL.IN.ZS,68.901
+Peru,PER,1989,Urban population (% of total),SP.URB.TOTL.IN.ZS,68.499
+Peru,PER,1988,Urban population (% of total),SP.URB.TOTL.IN.ZS,68.095
+Peru,PER,1987,Urban population (% of total),SP.URB.TOTL.IN.ZS,67.687
+Peru,PER,1986,Urban population (% of total),SP.URB.TOTL.IN.ZS,67.277
+Peru,PER,1985,Urban population (% of total),SP.URB.TOTL.IN.ZS,66.864
+Peru,PER,1984,Urban population (% of total),SP.URB.TOTL.IN.ZS,66.449
+Peru,PER,1983,Urban population (% of total),SP.URB.TOTL.IN.ZS,66.031
+Peru,PER,1982,Urban population (% of total),SP.URB.TOTL.IN.ZS,65.61
+Peru,PER,1981,Urban population (% of total),SP.URB.TOTL.IN.ZS,65.182
+Peru,PER,1980,Urban population (% of total),SP.URB.TOTL.IN.ZS,64.574
+Peru,PER,1979,Urban population (% of total),SP.URB.TOTL.IN.ZS,63.96
+Peru,PER,1978,Urban population (% of total),SP.URB.TOTL.IN.ZS,63.341
+Peru,PER,1977,Urban population (% of total),SP.URB.TOTL.IN.ZS,62.719
+Peru,PER,1976,Urban population (% of total),SP.URB.TOTL.IN.ZS,62.093
+Peru,PER,1975,Urban population (% of total),SP.URB.TOTL.IN.ZS,61.461
+Peru,PER,1974,Urban population (% of total),SP.URB.TOTL.IN.ZS,60.827
+Peru,PER,1973,Urban population (% of total),SP.URB.TOTL.IN.ZS,60.188
+Peru,PER,1972,Urban population (% of total),SP.URB.TOTL.IN.ZS,59.547
+Peru,PER,1971,Urban population (% of total),SP.URB.TOTL.IN.ZS,58.496
+Peru,PER,1970,Urban population (% of total),SP.URB.TOTL.IN.ZS,57.406
+Peru,PER,1969,Urban population (% of total),SP.URB.TOTL.IN.ZS,56.309
+Peru,PER,1968,Urban population (% of total),SP.URB.TOTL.IN.ZS,55.207
+Peru,PER,1967,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.096
+Peru,PER,1966,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.983
+Peru,PER,1965,Urban population (% of total),SP.URB.TOTL.IN.ZS,51.868
+Peru,PER,1964,Urban population (% of total),SP.URB.TOTL.IN.ZS,50.752
+Peru,PER,1963,Urban population (% of total),SP.URB.TOTL.IN.ZS,49.632
+Peru,PER,1962,Urban population (% of total),SP.URB.TOTL.IN.ZS,48.514
+Peru,PER,1961,Urban population (% of total),SP.URB.TOTL.IN.ZS,47.398
+Peru,PER,1960,Urban population (% of total),SP.URB.TOTL.IN.ZS,46.811
